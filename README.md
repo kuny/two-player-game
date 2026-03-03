@@ -5,7 +5,7 @@ make run
 
 🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
 
-     Prisoner's Dilemma
+     Two player game
 
 🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
 
