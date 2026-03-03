@@ -1,0 +1,2 @@
+((name . maximin)
+ (stategy . miximin))
