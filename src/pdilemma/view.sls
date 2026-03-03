@@ -11,7 +11,7 @@
       (newline)
       (display "🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢\n\n")
 
-      (display "     Prisoner's Dilemma\n\n")
+      (display "     Two player game\n\n")
       
       (display "🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢\n\n"))
 
