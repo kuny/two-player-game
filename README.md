@@ -1,4 +1,4 @@
-# Prisoner's Dilemma
+# Two player game
 
 ```shell
 make run
